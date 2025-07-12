@@ -98,5 +98,6 @@ Feel free to fork, remix, credit, and improve it.
 - Visit [DaTechDad.com](https://datechdad.com)
 - Follow [DaTechDad on GitHub](https://github.com/DaTechDad)
 - Support educational AI projects that give real people power and clarity
+- Looking for: Consulting, UX-AI Design, Prompt Ops, Developer Experience roles
 
 ---
